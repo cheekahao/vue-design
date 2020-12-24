@@ -1,5 +1,6 @@
-
 # 说明 - 请必看
+
+> 该库fork自[https://github.com/HcySunYang/vue-design](https://github.com/HcySunYang/vue-design)，由于原库已经不是主干分支，但是个人觉着对于对于了解`Vue2`还是很有帮助的，就自己部署了一份
 
 **这套文章不再维护**
 
